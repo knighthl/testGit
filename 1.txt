@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcd
+=======
+count1
+>>>>>>> feature/test2
