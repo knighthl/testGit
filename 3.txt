@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+123
+=======
+counb2
+>>>>>>> feature/test2
+=======
+counb2
+>>>>>>> f5d8bde (count 2)
